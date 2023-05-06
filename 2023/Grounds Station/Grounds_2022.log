@@ -1,0 +1,168 @@
+P-CAD Schematic ASCII File Export Log :
+      Information : Start export of symbol definitions for parts
+      Warning :     Symbol name [080115a1ce54750370cf87ec145ee29], mode [Normal], part [1] changed to [080115a1ce54750370cf87ec145eCD]
+      Warning :     Rectangle [200mil : -3600mil]-[1600mil : 100mil] exported as lines.
+      Warning :     Symbol name [b4654b650e69147ec39a6b967a45e02], mode [Normal], part [1] changed to [b4654b650e69147ec39a6b967a456E]
+      Warning :     Symbol name [CAP], mode [Normal], part [1] changed to [CAP_1_N]
+      Warning :     Symbol name [CAP], mode [IEEE], part [1] changed to [CAP_1_I]
+      Warning :     Symbol name [SPX-18572-Symbol-1], mode [Normal], part [1] changed to [SPX-18572-Symbol-1_1_N]
+      Warning :     Rectangle [300mil : -900mil]-[1200mil : 100mil] exported as lines.
+      Warning :     Symbol name [11868f565c42a9108669ba33697ecf6], mode [Normal], part [1] changed to [11868f565c42a9108669ba33697eC0]
+      Warning :     Symbol name [HC-05-Symbol-1], mode [Normal], part [1] changed to [HC-05-Symbol-1_1_N]
+      Warning :     Rectangle [300mil : -600mil]-[749mil : 100mil] exported as lines.
+      Warning :     Symbol name [RES], mode [Normal], part [1] changed to [RES_1_N]
+      Warning :     Symbol name [RES], mode [IEEE], part [1] changed to [RES_1_I]
+      Warning :     Rectangle [0mil : -140mil]-[200mil : -60mil] exported as lines.
+      Warning :     Symbol name [MAX16903RAUE50_V+-Symbol-1], mode [Normal], part [1] changed to [MAX16903RAUE50_V+-Symbol-1_1_N]
+      Warning :     Rectangle [300mil : -800mil]-[1200mil : 100mil] exported as lines.
+      Warning :     Symbol name [LED_GREEN_A1K2-2], mode [Normal], part [1] changed to [LED_GREEN_A1K2-2_1_N]
+      Warning :     Symbol name [LED-ORANGE-AK-2], mode [Normal], part [1] changed to [LED-ORANGE-AK-2_1_N]
+      Warning :     Symbol name [725321dda6339637d4d059423bc1c3c], mode [Normal], part [1] changed to [725321dda6339637d4d059423bc10B]
+      Warning :     Symbol name [3bc925449376181038e59eaffc5286c], mode [Normal], part [1] changed to [3bc925449376181038e59eaffc5296]
+      Warning :     Rectangle [-400mil : -400mil]-[-200mil : 200mil] exported as lines.
+      Warning :     Rectangle [-360mil : -30mil]-[-270mil : 30mil] exported as lines.
+      Warning :     Rectangle [-360mil : -230mil]-[-270mil : -170mil] exported as lines.
+      Warning :     Symbol name [SW-SPDT-3_B], mode [Normal], part [1] changed to [SW-SPDT-3_B_1_N]
+      Warning :     Symbol name [RES-2], mode [Normal], part [1] changed to [RES-2_1_N]
+      Warning :     Symbol name [Header 4], mode [Normal], part [1] changed to [Header_4_1_N]
+      Warning :     Rectangle [0mil : -500mil]-[300mil : 0mil] exported as lines.
+      Information : End export of symbol definitions for part
+      Information : Start exporting the symbol definitions for power ports
+      Warning :     End exporting the symbol defintions for power ports
+      Information : Start exporting component definitions
+      Warning :     Component [U1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (080115a1ce54750370cf87ec145ee29).
+      Warning :     Component [080115a1ce54750370cf87ec145ee29] changed to [080115A1CE54750370CF87EC145E2E]
+      Warning :        Finish exporting component.
+      Warning :     Component [C2] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (b4654b650e69147ec39a6b967a45e02).
+      Warning :     Component [b4654b650e69147ec39a6b967a45e02] changed to [B4654B650E69147EC39A6B967A4514]
+      Warning :        Finish exporting component.
+      Warning :     Component [C1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (CAP).
+      Warning :        Finish exporting component.
+      Warning :     Component [U3] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (SPX-18572-Symbol-1).
+      Warning :     Component [SPX-18572-Symbol-1] changed to [SPX-18572-SYMBOL-1]
+      Warning :        Finish exporting component.
+      Warning :     Component [C4] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (11868f565c42a9108669ba33697ecf6).
+      Warning :     Component [11868f565c42a9108669ba33697ecf6] changed to [11868F565C42A9108669BA33697EFE]
+      Warning :        Finish exporting component.
+      Warning :     Component [P1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (HC-05-Symbol-1).
+      Warning :     Component [HC-05-Symbol-1] changed to [HC-05-SYMBOL-1]
+      Warning :        Finish exporting component.
+      Warning :     Component [R3] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (RES).
+      Warning :        Finish exporting component.
+      Warning :     Component [U2] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (MAX16903RAUE50_V+-Symbol-1).
+      Warning :     Component [MAX16903RAUE50_V+-Symbol-1] changed to [MAX16903RAUE50_V+-SYMBOL-1]
+      Warning :        Finish exporting component.
+      Warning :     Component [R4] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [D1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (LED_GREEN_A1K2-2).
+      Warning :        Finish exporting component.
+      Warning :     Component [C6] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [D2] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (LED-ORANGE-AK-2).
+      Warning :        Finish exporting component.
+      Warning :     Component [L1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (725321dda6339637d4d059423bc1c3c).
+      Warning :     Component [725321dda6339637d4d059423bc1c3c] changed to [725321DDA6339637D4D059423BC142]
+      Warning :        Finish exporting component.
+      Warning :     Component [C5] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [C8] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [J1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (3bc925449376181038e59eaffc5286c).
+      Warning :     Component [3bc925449376181038e59eaffc5286c] changed to [3BC925449376181038E59EAFFC529B]
+      Warning :        Finish exporting component.
+      Warning :     Component [SW1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (SW-SPDT-3_B).
+      Warning :        Finish exporting component.
+      Warning :     Component [R5] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (RES-2).
+      Warning :        Finish exporting component.
+      Warning :     Component [C7] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [C9] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [C10] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [C11] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [C?] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [P2] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :        Exporting component (Header 4).
+      Warning :     Component [Header 4] changed to [HEADER_4]
+      Warning :        Finish exporting component.
+      Warning :     Component [R1] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Warning :     Component [R2] in sheet [C:\Users\felic\AppData\Local\Temp\Qjz8DBA.tmp] doesn't have a library reference
+      Information : End exporting component definitions
+      Information : Start exporting component definitions for power ports
+      Warning :     End exporting component definitions for powerports
+      Information : Start export of netlist
+      Information : Start export of component instances
+      Information : End export of component instances
+      Information : Start export of nets
+      Information : End export of nets
+      Information : End export of netlist
+      Information : Start exporting the objects for sheet [Grounds]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Exporting powerport at [8950mil : 1950mil] as component with designator [GND1]
+      Warning :     Exporting powerport at [6150mil : 5450mil] as component with designator [PP51]
+      Warning :     Exporting powerport at [6150mil : 5050mil] as component with designator [GND2]
+      Warning :     Exporting powerport at [6750mil : 4950mil] as component with designator [PP3_31]
+      Warning :     Exporting powerport at [10400mil : 6700mil] as component with designator [GND3]
+      Warning :     Exporting powerport at [12050mil : 6500mil] as component with designator [GND4]
+      Warning :     Exporting powerport at [10100mil : 7500mil] as component with designator [GND5]
+      Warning :     Exporting powerport at [12750mil : 7100mil] as component with designator [PP3_32]
+      Warning :     Exporting powerport at [12750mil : 6900mil] as component with designator [GND6]
+      Warning :     Exporting powerport at [12250mil : 1850mil] as component with designator [GND7]
+      Warning :     Exporting powerport at [12400mil : 2050mil] as component with designator [PP52]
+      Warning :     Exporting powerport at [10650mil : 4250mil] as component with designator [GND8]
+      Warning :     Exporting powerport at [6450mil : 2850mil] as component with designator [PVbat1]
+      Warning :     Exporting powerport at [5350mil : 2000mil] as component with designator [GND9]
+      Warning :     Exporting powerport at [1400mil : 2300mil] as component with designator [GND10]
+      Warning :     Exporting powerport at [2750mil : 2150mil] as component with designator [GND11]
+      Warning :     Exporting powerport at [5550mil : 1550mil] as component with designator [PP53]
+      Warning :     Exporting powerport at [5250mil : 600mil] as component with designator [GND12]
+      Warning :     Exporting powerport at [6100mil : 2650mil] as component with designator [GND13]
+      Warning :     Exporting powerport at [950mil : 2650mil] as component with designator [GND14]
+      Warning :     Exporting powerport at [900mil : 2850mil] as component with designator [PVbat2]
+      Warning :     Exporting powerport at [3850mil : 1050mil] as component with designator [GND15]
+      Warning :     Exporting powerport at [13050mil : 6500mil] as component with designator [PP54]
+      Warning :     Exporting powerport at [13050mil : 6300mil] as component with designator [GND16]
+      Warning :     Exporting powerport at [1150mil : 7000mil] as component with designator [GND17]
+      Warning :     Exporting powerport at [1100mil : 7650mil] as component with designator [PP55]
+      Information : End exporting the objects for sheet [Grounds]
+EndLog
