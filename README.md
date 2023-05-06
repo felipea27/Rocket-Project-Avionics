@@ -21,4 +21,4 @@ Bodytube 2021 is fully tested and functional <br>
 Untested: 
 </h3>
 
-Nosecone and Bodytube 2022 faced manufacturing difficulties and was not able to be manufactured. But they should work.
+Nosecone and Bodytube 2022 faced manufacturing difficulties and were not able to be manufactured. But they should work.
