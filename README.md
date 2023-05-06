@@ -7,9 +7,9 @@ This is a central repository for Ares Avionics. It includes Sch and Pcb files fo
 </p>
 
 <p>
-Grounds 2022 is fully tested and functional
-Nosecone 2021 is fully tested and functional
-Bodytube 2021 is fully tested and functional
+Grounds 2022 is fully tested and functional <br>
+Nosecone 2021 is fully tested and functional <br>
+Bodytube 2021 is fully tested and functional <br>
 </p>
 
 Nosecone and Bodytube 2022 faced manufacturing difficulties and was not able to be manufactured. But they should work.
